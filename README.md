@@ -30,7 +30,7 @@ A pdf version of this CV (with corresponding LaTeX source) can be downloaded abo
 
 **Maths & Physics** &ndash; In addition to my degree, have tutored A-level maths and physics in my spare time for a few years now
 
-Miscellanious &ndash; **LaTeX**. **Vim**mer (vimist? vimian?), but haven't yet got up the courage to properly learn vimscript. Dabbled in **Java** to make an Android app I wanted, but wasn't a big fan
+Miscellanious &ndash; **LaTeX**. **Vim** user (vimmer? vimist? vimian?), but haven't yet got up the courage to properly learn vimscript. Dabbled in **Java** to make an Android app I wanted, but wasn't a big fan
 
 Of course, very happy to learn new things not in this list :)
 
