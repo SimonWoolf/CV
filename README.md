@@ -2,6 +2,8 @@
 
 Young [programmer|maths geek|physics geek] doing high-quality freelance full-stack web development. Experienced mostly with Ruby-based stacks (sinatra & rails), but very happy to work with any technology that'd be fun to learn! Email me at simon@simonwoolf.net to talk about anything :)
 
+A pdf version of this CV (with corresponding LaTeX source) can be downloaded above.
+
 ## Links
 
 [**website**](http://simonwoolf.net) &middot;
