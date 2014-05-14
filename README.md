@@ -12,7 +12,7 @@ A pdf version of this CV (with corresponding LaTeX source) can be downloaded abo
 
 ## Selection of projects and freelance work
 
-| [Disability Update](http://websandbox.herokuapp.com/) | [Sudoku](http://sudoku.simonwoolf.net/) | [Websandbox](http://websandbox.herokuapp.com/) |
+| [Disability Update](http://disability-discrimination.herokuapp.com/) | [Sudoku](http://sudoku.simonwoolf.net/) | [Websandbox](http://websandbox.herokuapp.com/) |
 |---|---|---|
 | Website and case archive for Monika Sobiecki and Spencer Keen's Disability Discrimination Update, done on contract. Source publicly available by their kind permission. [Source](https://github.com/SimonWoolf/disability-discrimination-update) | Sudoku webapp. Just for fun (done at Makers). Neat recursive solver/generator, guaranteed to generate puzzles with a unique solution. [Source](https://github.com/SimonWoolf/sudoku) | 'Html-&-css made fun' app. Everyone has their sandbox. Click an element for a pop-up that lets you edit its HTML and CSS. Fully versioned & revertable. Done at Makers. [Source](https://github.com/SimonWoolf/websandbox) |
 | **Markov text generation** | **Data analytics with dc.js** | **Terminal-paint** |
