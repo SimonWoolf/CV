@@ -1,6 +1,6 @@
 # Simon Woolf
 
-Young [programmer|maths geek|physics geek], just moved into London and doing high-quality freelance full-stack web development. Experienced mostly with Ruby-based stacks (sinatra & rails), but very happy to work with any technology that'd be fun to learn! Email me at simon@simonwoolf.net to talk about anything :)
+Young [programmer|maths geek|physics geek]. As of June, full-time developer in [Econsultancy's tech team](https://econsultancy.com/about/tech). Experienced mostly with Ruby-based stacks (sinatra & rails), but very happy to work with any technology that'd be fun to learn. Email me at simon@simonwoolf.net to talk about anything, though I'm afraid I'm unable to take on freelance work while at Econsultancy.
 
 A pdf version of this CV (with corresponding LaTeX source) can be downloaded above.
 
